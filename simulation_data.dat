@@ -1,0 +1,102 @@
+			FINAL SIMULATION DATA:
+
+Percentage of empty space: 20 o/o 
+Ratio between the populations: 1.000000
+Percentage of preference of similar neighbors: 60 o/o
+Number of black elements: 600
+Number of white elements: 600
+Size of the grid: 30x50
+
+		SYSTEM'S INITIAL CONDICTION:
+______________________________________________________________________________________________________
+|X X 0 X X 0 X X 0 X 0 X 0 0 X 0 0 X 0 0     X X   X   0 0 0 0   0 X 0   X   0   0 0 0 X 0 X X X 0 0 |
+|X 0 X 0 0   X X X X X   0 X X 0 X 0 0 X X X X 0 0   0     X 0 X 0 0 0 0 0 X 0     0 X 0 0 X X   0 X |
+|0 0 0 0 X 0   X X     X   X X X X X 0   0 0 X 0 X X 0 0   X   0 X   0 X   X 0 X X X 0 X   0 0   X 0 |
+|X 0 0 0 0 0 X 0 X   0   0 X   X 0 X 0 0 0 X 0 X 0 X 0 X 0 0 0 X X       X     X 0   0   X X X 0 0   |
+|  0   X   0 X 0 X 0 0 X X   X X   X     X 0   0 0 0 X 0 0 0 0 0 0 0 0     0 X 0 0 X   X X X     X X |
+|X   X X   0     X X X X X X X X 0 0 X X X 0 0 0   X X   0   X   X   X 0 X X 0 0 X   X X 0     0   0 |
+|  X 0 0 0 0 0     0 X 0 0   X 0   X     0 X X X X         X 0   X 0 0 X 0 0 0 X 0 X X 0 X   X X X X |
+|0 X 0 X 0 X X 0 X X   0 0 X   X 0 0       X 0 X X X 0 0     0 X X X X 0 0 0     0 0 0 0 0   0 X 0 X |
+|0 0 0 X X   0 X X X     X 0   X 0   X 0 X X X 0 0 X   0 X X X 0 X X 0 0 0 0 X 0 X 0 X X X 0 X     0 |
+|0   X   0   X 0 0   X 0 X X X X X 0   0 0 0     0 0 X   0 X   X X X   X 0 0 X 0 X   0 X   0 X       |
+|0 X X 0   X   0 0 0 X X X X 0 0   0 0 0 0   X X 0 X 0 X 0 X   0 X   0 0   0 0 X 0 X 0 0 0 X X       |
+|X 0 X 0   0 0 0   0     X X X 0 0 0 X 0   0 X X 0   0 X 0 X 0 0 X   0 0 X X X   0   0 X 0 0 X 0   X |
+|X X 0 0 0 X 0   X 0 X X     X X 0 0 X   X 0 X 0   0 0 X 0 0 0 0 X X 0     X   X 0 0 0 X 0   0     0 |
+|  0 X X 0 X 0 0 0 0 0 X   0 0 X 0   X   0 X   0 0 0 0 0 0 X   X X 0 X 0   0 0 0 X   0 X X 0 0 0 0 X |
+|  0 0 0 X X     X   X X X 0 0 X X X X 0 X X     0 0   0   X 0 X X X X 0 0 X X X 0 0 X 0 X 0 X X 0 X |
+|0 X X 0 0   X X X 0   X X X   X   X X   0 0 0 X 0 X X   0 0 0 0 0   X 0 0   X 0 0 0 0 X X 0 X X     |
+|0 X X     0 X X 0 0 0 X X 0 0 0 X 0 0 0 0 0 X 0 X     X   0 0 X X X X X 0 X   X 0 X X 0   0 X X   0 |
+|X X X 0 0 X 0 0   0 0     X X X X   0 0 0 0 0   0 0 X 0       X 0 X 0   X X 0 0     X   X 0 0 X X 0 |
+|0 X 0 0 X X 0 0   X   X X   X 0 X   0 0 X X 0 X 0 0 0 0 0 0 0 0 X X 0   X X X X   0 0 X 0 X 0 0 X   |
+|  0 X X   X 0 X X X 0 X 0 X X X 0   0 0 0 0 X X X X X   X X 0 0 0 X 0   0 0     0 0 X 0 0 0 0 0 0   |
+|  0 0 X 0 0 X X X 0 X 0 X X   0 0 0 X X   X 0   X 0   0 X X 0 X X 0 0   0 X 0 X 0 X X X 0 X 0 0 0 X |
+|X 0 X 0 0 X 0 X X X     X 0 0 0 X X 0 0 0   X X X X X X X   0 X 0   0 X X   X 0     0 X X X   0 0 X |
+|X 0 0 0 X 0   0 X   X X 0 0 0   X 0 X 0 0   X X 0   X X X   0   X   0   X X X 0 X 0 X X X X 0   X   |
+|0 0   0   X 0 0 X 0 X 0   X X 0   0 X 0 0 0 0 X 0 0 0 X   X     0 X 0   0 X X X 0 0 0 X X   X 0 X   |
+|X X 0   X X X X 0 X   X X   0 0 X     X 0 X 0 X X X X X X   0 X X 0 X 0 0 X   X   X X X X 0 0 0 0 X |
+|0     X     X 0 X X   0   X 0   X X   0 X 0 X   X 0 X   X X   X 0   0 0 0   0 X 0 0 X 0 X 0 0 0   0 |
+|X   0 X X X 0 0   X X X 0 X   X X 0 0 0 X X   X 0   0 X X 0 X 0   0 X X   0   X X X X X X X   0 X 0 |
+|X 0   0 0 0 0 X 0 0 X X 0 0       0 X X X 0 0 X 0 0 0 0   X 0 X   0 0 0 0 X   X X   X   0 0 X 0 0 X |
+|0 0   0   0 X   X X   X   0 X 0   X X 0 0 X X X X X X 0   X 0 X X X   0 X X X 0 0   X 0 0 0 0   0 X |
+|0     X 0 X X 0 X 0 0   0 0 X 0   X X 0     X X   X 0 X X 0 X X 0 X 0   X 0   0 X   X X 0 X 0 X     |
+******************************************************************************************************
+
+
+			BAR CHART OF SYSTEM'S EVOLUTION:
+
+Number of unhappy elements: 
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO | 867
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO | 623
+OOOOOOOOOOOOOOOOOOOOOOOOOOO | 392
+OOOOOOOOOOOOOOOOOOO | 274
+OOOOOOOOOOOOO | 187
+OOOOOOOOO | 131
+OOOOOOOOOO | 139
+OOOOOOO | 91
+OOOO | 55
+OOO | 34
+OOOO | 51
+OOO | 42
+OO | 15
+O | 11
+O | 3
+O | 1
+O | 0
+
+Ticks of the simulation: 17
+
+			SYSTEM'S FINAL CONDICTION:
+______________________________________________________________________________________________________
+|0 0 0   0 0   X X X X     X X X X   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0   0 0 0 0   0 0 0             |
+|0 0 0 0 0 0   X X X X X X X X X X   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0   X   X X X X |
+|0 0 0 0 0 0   X X X X   X X X X X   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0   X X X X X X X |
+|0 0 0 0 0 0 0   X X X   X X X X X X   0 0 0 0 0 0 0 0 0 0 0 0   0 0 0 0 0 0 0 0 0   X X X X X X X X |
+|0 0 0 0 0 0 0   X X X X X X X X   X X         0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0   X X X X X X   X |
+|0 0 0 0 0 0 0 0   X X   X X X X X X X X X X X   0 0 0 0 0 0 0 0 0 0 0   0 0 0 0 0   X X X X X X X X |
+|0 0 0 0 0 0 0 0   X X X   X X X   X X X X X X X   0 0 0             0 0 0 0 0 0 0   X X X X X X X X |
+|0 0 0   0 0 0   X X X   X X X X     X X X X X X X     X X X X X X   0 0 0 0 0 0 0   X X X X X X X   |
+|0 0 0 0 0   0   X X X X X X   X X     X X X X X X   X X X X X X X X   0 0 0 0 0 0     X X X X X     |
+|0 0 0 0 0   0 0   X X X X X X X X X       X X X X X X X X X X X X X X   0 0 0 0 0 0 0   X X X X   0 |
+|0 0 0 0 0 0 0 0 0   X X X X X X X           X X X X X X   X X X X X X           0 0 0 0   X X   0 0 |
+|  0   0 0 0 0 0 0 0   X X X X X           X X X X X X         X X X     X X X   0 0 0 0     0 0 0 0 |
+|    0 0 0 0 0 0 0 0 0   X X X X X X X   X X X X         0 0   X X X   X   X X   0 0 0 0   0 0 0 0 0 |
+|X X   0 0   0 0 0 0 0   X X X X X X X X X X X     0 0 0 0 0 0 X X X X     X X       0 0 0 0 0 0 0 0 |
+|X X X           0 0 0   X X X X X X X   X X X   0 0 0 0 0 0 0   X X           0 0 0 0 0 0 0 0 0 0 0 |
+|X X X X   X X X   0 0   X X X X X X           0 0 0 0 0 0 0 0 0     X   X     0 0 0 0 0 0 0 0 0 0 0 |
+|X X X X X X X X   0     X X X X X   0 0 0 0   0 0 0 0 0 0 0 0 0 0   X X X X   0 0 0 0   0 0   0 0 0 |
+|X X X X X X X X     X X X X X X   0 0 0 0 0 0 0 0     0 0 0 0 0 0 0   X X X   0 0 0 0 0 0 0 0 0   0 |
+|X X               X X X X X X X   0 0 0 0 0 0 0   X   0 0 0 0 0 0 0 0   X X   0 0 0 0 0 0 0 0 0 0 0 |
+|    0 0 0 0   X X X X X X X X   0 0 0 0 0 0 0   X X X   0 0 0 0 0 0 0     X X     0 0 0 0 0 0 0 0 0 |
+|0 0 0 0 0 0   X X X X X X X   0   0 0 0 0 0 0   X X X X X   0 0 0 0 0 0 0   X X X         0 0 0 0   |
+|0 0 0 0 0 0   X X X   X       0 0 0 0 0 0 0 0   X X X X X X     0 0 0 0 0   X X X X X X     0 0 0 0 |
+|0 0 0 0 0 0   X   X X X     0 0 0 0 0 0 0 0       X X X X X X   0 0 0 0   X X X X X X X X 0 0 0     |
+|0 0           X X X X X X   0 0 0 0 0 0 0 0 0 0   X X X X X X           X X X X     X X     0 0     |
+|  X X X X X X   X X X X X X     0 0 0 0 0 0 0 0   X X X X X X X X X X X   X X X X X X X     0 0 0 0 |
+|X X X X   X X X X X X X X   X X     0 0 0 0 0 0 0   X X X X X X X X X X X   X X X X X X   0 0 0 0 0 |
+|        X X X X X X X X X   X X X X X     0 0 0 0   X X X X X X X X   X X X X X X X X X 0 0 0 0 0 0 |
+|0 0 0       X X X X       X X X X X X X   0 0 0 0     X   X   X X X X X X X X X X X X   0 0 0 0 0 0 |
+|0 0 0 0   X X X X X   0   X X   X X X X   0 0 0     X X X X X X X X X X X X X X X X X   0 0 0 0 0 0 |
+|0 0 0 0   X X X X   0 0   X X X X X X X X   0 0 0 X X X X X X X X X X X X X   X X X X   0 0 0 0 0 0 |
+******************************************************************************************************
+
+
