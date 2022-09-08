@@ -4,7 +4,7 @@ that creates a world populated with autonomous agents that make decisions by fol
 
 Developed by the economist Thomas Shelling in 1969, it offers an explanation on why neighboorhoods tend to be segregated even if the citizens do not have any prejudice
 and are confortable in seeing diversity in their surroundings.
-The surprising result is that even for a similarity preference that is much less than 50\%50%, 
+The surprising result is that even for a similarity preference that is much less than 50\%, 
 which corresponds to individuals that are very comfortable with diversity, race-segregated neighborhoods are still a frequent outcome. 
 
 # Simulation details:
